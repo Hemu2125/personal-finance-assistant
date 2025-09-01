@@ -2,6 +2,9 @@
 
 A comprehensive full-stack web application designed to help users track, manage, and understand their financial activities. Built with React, Node.js, Express.js, and MongoDB.
 
+##  Demo 
+https://github.com/user-attachments/assets/2127b23f-f9d7-468c-8fe7-66ebd50aa622
+
 ## 🚀 Features
 
 ### Core Functionality
